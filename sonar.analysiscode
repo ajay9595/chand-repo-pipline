@@ -1,0 +1,5 @@
+sonar.projectKey=demo.app
+sonar.projectName=my project
+sonar.projectVersion=v.1
+sonar.sources=src
+sonar.java.binaries=target
